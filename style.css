@@ -91,6 +91,11 @@
     height: 100%;
     border-radius: 12px;
 }
+.workingspace iframe {
+    width: 100%;
+    height: 100%;
+    border-radius: 12px;
+}
 
 .workingspace h2 {
     font-size: 40px;
